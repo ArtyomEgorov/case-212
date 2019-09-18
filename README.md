@@ -200,3 +200,4 @@
 | Михаил Смаль                       | Lead developer                          |
 | Михаил Самин                       | CEO, AudD, Москва                       |
 | Соломатин Роман                    | Программист, Пермь                      |
+| Артём Егоров                       | Bioinformatician, the Laboratory of Systems Biology of Aging, MSU, Moscow |
